@@ -4,4 +4,7 @@ ReNorfolk is a bot made by me for Legacy 1.20 because we all know we HATE manual
 
 !! also i am NOT responsible if someone modifies this to make this reroll bot work for another game !!
 
+Requires Tesseract-OCR
+Requires AutoHotKey V1 and V2
+
 [![BOII RENORFOLK TUTORIAL VIDEO 🤣😂✌](https://img.youtube.com/vi/mM6BtPa4JIs/0.jpg)](https://www.youtube.com/watch?v=mM6BtPa4JIs)
